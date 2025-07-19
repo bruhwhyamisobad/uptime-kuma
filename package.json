@@ -88,7 +88,7 @@
         "chroma-js": "~2.4.2",
         "command-exists": "~1.2.9",
         "compare-versions": "~3.6.0",
-        "compression": "~1.7.4",
+        "compression": "~1.8.1",
         "croner": "~6.0.5",
         "dayjs": "~1.11.5",
         "dotenv": "~16.0.3",
@@ -147,7 +147,7 @@
         "ws": "^8.13.0"
     },
     "devDependencies": {
-        "@actions/github": "~5.1.1",
+        "@actions/github": "~6.0.0",
         "@fortawesome/fontawesome-svg-core": "~1.2.36",
         "@fortawesome/free-regular-svg-icons": "~5.15.4",
         "@fortawesome/free-solid-svg-icons": "~5.15.4",
@@ -199,7 +199,7 @@
         "vue-chartjs": "~5.2.0",
         "vue-confirm-dialog": "~1.0.2",
         "vue-contenteditable": "~3.0.4",
-        "vue-i18n": "~9.2.2",
+        "vue-i18n": "~9.14.5",
         "vue-image-crop-upload": "~3.0.3",
         "vue-multiselect": "~3.0.0-alpha.2",
         "vue-prism-editor": "~2.0.0-alpha.2",
