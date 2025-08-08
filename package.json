@@ -147,7 +147,7 @@
         "ws": "^8.13.0"
     },
     "devDependencies": {
-        "@actions/github": "~5.1.1",
+        "@actions/github": "~6.0.0",
         "@fortawesome/fontawesome-svg-core": "~1.2.36",
         "@fortawesome/free-regular-svg-icons": "~5.15.4",
         "@fortawesome/free-solid-svg-icons": "~5.15.4",
